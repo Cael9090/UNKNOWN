@@ -15,6 +15,6 @@ UNKNOWN
 4) Run the game from Visual Studio Code.
 
 ## Controls
-A- move right
-D- move left
-Space - jump
+1) A- move right
+2) D- move left
+3) Space - jump
