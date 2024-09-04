@@ -4,9 +4,9 @@
 UNKNOWN
 
 ## Members
-1.Chia Xiang Ning
-2.Jocelyn Chong Xin Lin
-3.Wong Xin En
+1) Chia Xiang Ning
+2) Jocelyn Chong Xin Lin
+3) Wong Xin En
 
 ## How To Download
 1) Download all the files from the main directory.
